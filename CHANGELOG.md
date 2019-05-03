@@ -1,4 +1,5 @@
-- Drop testing/support for nodes 4 and 5, test nodes 9, 10 and 11
+2019/05/03 Version 3.3.2
+- Backport redirects bugfix
 
 2019/02/10 Version 3.3.1
 - Publish via linux to hopefully fix #238
