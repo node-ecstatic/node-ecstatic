@@ -56,7 +56,7 @@ because I try to make a single commit for a tagged release contain all
 changelog additions and the version bump, and this breaks down when there are
 interstitial commits making updates to either.
 3. In case you were wondering about dependencies, you may find this helpful:
-[![dependencies status](https://david-dm.org/jfhbrook/node-ecstatic.svg)](https://david-dm.org/jfhbrook/node-ecstatic)
+[![dependencies status](https://david-dm.org/node-ecstatic/node-ecstatic.svg)](https://david-dm.org/node-ecstatic/node-ecstatic)
 4. Please add yourself to CONTRIBUTORS.md if you haven't done so! Fill in as
 much as makes you comfortable.
 
