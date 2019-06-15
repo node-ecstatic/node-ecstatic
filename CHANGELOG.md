@@ -1,3 +1,6 @@
+2019/06/15 Version 3.3.3
+- Backport fix redirections on Windows
+
 2019/05/03 Version 3.3.2
 - Backport redirects bugfix
 
