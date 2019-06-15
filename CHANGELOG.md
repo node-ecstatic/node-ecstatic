@@ -1,3 +1,6 @@
+2019/06/15 Version 4.1.3
+- fix redirections on Windows
+
 2019/04/27 Version 4.1.2
 - Redirects bugfix
 
