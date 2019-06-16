@@ -1,12 +1,12 @@
 {
   "author": "Joshua Holbrook <josh@nodejitsu.com> (http://jesusabdullah.net)",
-  "name": "@node-ecstatic/ecstatic",
+  "name": "extatic",
   "description": "A simple static file server middleware",
   "version": "4.1.3",
-  "homepage": "https://github.com/node-ecstatic/node-ecstatic",
+  "homepage": "https://github.com/node-extatic/extatic",
   "repository": {
     "type": "git",
-    "url": "git@github.com:node-ecstatic/node-ecstatic.git"
+    "url": "git@github.com:node-extatic/extatic.git"
   },
   "main": "./lib/ecstatic.js",
   "scripts": {

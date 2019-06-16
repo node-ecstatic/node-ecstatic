@@ -1,4 +1,4 @@
-# Ecstatic [![build status](https://travis-ci.org/node-ecstatic/node-ecstatic.svg?branch=master)](http://travis-ci.org/node-ecstatic/node-ecstatic) [![codecov.io](https://codecov.io/github/node-ecstatic/node-ecstatic/coverage.svg?branch=master)](https://codecov.io/github/node-ecstatic/node-ecstatic?branch=master)
+# Extatic [![build status](https://travis-ci.org/node-extatic/extatic.svg?branch=master)](http://travis-ci.org/node-extatic/extatic) [![codecov.io](https://codecov.io/github/node-extatic/extatic/coverage.svg?branch=master)](https://codecov.io/gh/node-extatic/extatic/)
 
 ![](http://imgur.com/vhub5.png)
 
@@ -56,25 +56,25 @@ ecstatic({ root: __dirname + '/public', handleError: false })
 ## CLI
 
 ```sh
-ecstatic ./public --port 8080
+extatic ./public --port 8080
 ```
 
 # Install:
 
-For using ecstatic as a library, just npm install it into your project:
+For using extatic as a library, just npm install it into your project:
 
 ```sh
-npm install --save ecstatic
+npm install --save extatic
 ```
 
-For using ecstatic as a cli tool, either npm install it globally:
+For using extatic as a cli tool, either npm install it globally:
 
 ```sh
-npm install ecstatic -g
+npm install extatic -g
 ```
 
 or install it locally and use npm runscripts to add it to your $PATH, or
-reference it directly with `./node_modules/.bin/ecstatic`.
+reference it directly with `./node_modules/.bin/extatic`.
 
 
 # API:
@@ -114,7 +114,7 @@ options are set to their defaults.
 When running in CLI mode, all options work as above, passed in
 [optimist](https://github.com/substack/node-optimist) style. `port` defaults to
 `8000`. If a `dir` or `--root dir` argument is not passed, ecsatic will
-serve the current dir. Ecstatic also respects the PORT environment variable.
+serve the current dir. Extatic also respects the PORT environment variable.
 
 ### `opts.root`
 ### `--root {root}`
@@ -334,7 +334,7 @@ don't want to use this directly.
 
 # Tests:
 
-Ecstatic has a fairly extensive test suite. You can run it with:
+Extatic has a fairly extensive test suite. You can run it with:
 
 ```sh
 $ npm test
