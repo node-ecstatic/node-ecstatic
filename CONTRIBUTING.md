@@ -27,7 +27,7 @@ $ git checkout -b 'my-sweet-new-pull-request'
 
 ## Please Please Please Start With A Test
 
-ecstatic has some pretty gnarly branching/logic underneath. Tests are extremely
+extatic has some pretty gnarly branching/logic underneath. Tests are extremely
 important because they (a) prove that your feature/fix works, and (b) avoid
 regressions in the future. Even if your patch is problematic enough to not be
 merged, a test will still be very helpful for confirming any future fix.
@@ -37,7 +37,7 @@ helps!
 
 ## Code Style
 
-Ecstatic lints using a number of modifications on top of airbnb. If you think
+Extatic lints using a number of modifications on top of airbnb. If you think
 "airbnb except it doesn't need to be transpiled for targeted platforms" you're
 pretty close.
 
@@ -56,7 +56,7 @@ because I try to make a single commit for a tagged release contain all
 changelog additions and the version bump, and this breaks down when there are
 interstitial commits making updates to either.
 3. In case you were wondering about dependencies, you may find this helpful:
-[![dependencies status](https://david-dm.org/node-ecstatic/node-ecstatic.svg)](https://david-dm.org/node-ecstatic/node-ecstatic)
+[![dependencies status](https://david-dm.org/node-extatic/extatic.svg)](https://david-dm.org/node-extatic/extatic)
 4. Please add yourself to CONTRIBUTORS.md if you haven't done so! Fill in as
 much as makes you comfortable.
 
