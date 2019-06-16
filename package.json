@@ -2,7 +2,7 @@
   "author": "Joshua Holbrook <josh@nodejitsu.com> (http://jesusabdullah.net)",
   "name": "extatic",
   "description": "A simple static file server middleware",
-  "version": "3.3.3",
+  "version": "3.3.4",
   "homepage": "https://github.com/node-extatic/extatic",
   "repository": {
     "type": "git",

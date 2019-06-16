@@ -1,5 +1,9 @@
+2019/06/15 Version 3.3.4
+- Handle errors occur in `fs.stat` to fix #2
+
 2019/06/15 Version 3.3.3
 - Backport fix redirections on Windows
+- Drop testing/support for nodes 4 and 5, test nodes 9, 10 and 11
 
 2019/05/03 Version 3.3.2
 - Backport redirects bugfix
